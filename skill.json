@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agent-document-ast-parser-compiler-skill",
+  "version": "1.0.0",
+  "description": "Multi-format document abstract syntax tree parser and markdown compiler",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "parse_markdown_ast",
+      "compile_ast_markdown"
+    ]
+  }
+}
