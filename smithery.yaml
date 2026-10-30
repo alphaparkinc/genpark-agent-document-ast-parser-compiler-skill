@@ -1,0 +1,4 @@
+name: genpark-agent-document-ast-parser-compiler-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
